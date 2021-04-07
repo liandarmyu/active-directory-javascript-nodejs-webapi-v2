@@ -29,15 +29,15 @@
         "Mappings": [
           {
             "key": "clientID",
-            "value": ".AppId"
+            "value": "cbed2978-fa06-44d4-a7bd-fb867f3b561b"
           },
           {
             "key": "tenantID",
-            "value": "$tenantId"
+            "value": "6dd8ef33-83c7-4d21-9142-13da7bd30ecd"
           },
           {
             "key": "audience",
-            "value": ".AppId"
+            "value": "cbed2978-fa06-44d4-a7bd-fb867f3b561b"
           }
         ]
       }

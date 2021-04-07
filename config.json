@@ -1,8 +1,8 @@
 {
     "credentials": {
-        "tenantID": "Enter_the_Tenant_ID",
-        "clientID": "Enter_the_Client_ID",
-        "audience": "Enter_the_Client_ID"
+        "tenantID": "6dd8ef33-83c7-4d21-9142-13da7bd30ecd",
+        "clientID": "cbed2978-fa06-44d4-a7bd-fb867f3b561b",
+        "audience": "cbed2978-fa06-44d4-a7bd-fb867f3b561b"
     },
     "resource": {
         "scope": ["access_as_user"]
